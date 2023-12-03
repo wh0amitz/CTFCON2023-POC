@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOpLock", "SetOpLock\SetOpLock.csproj", "{513DA703-C53F-4AC2-9E96-8287DF8C53CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513DA703-C53F-4AC2-9E96-8287DF8C53CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513DA703-C53F-4AC2-9E96-8287DF8C53CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513DA703-C53F-4AC2-9E96-8287DF8C53CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513DA703-C53F-4AC2-9E96-8287DF8C53CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34BE79CF-27A2-4521-A30B-7700CC3396BF}
+	EndGlobalSection
+EndGlobal

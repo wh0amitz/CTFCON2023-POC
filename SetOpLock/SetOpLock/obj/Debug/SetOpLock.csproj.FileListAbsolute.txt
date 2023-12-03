@@ -1,0 +1,5 @@
+C:\Users\whoami\source\repos\SetOpLock\SetOpLock\bin\Debug\SetOpLock.exe.config
+C:\Users\whoami\source\repos\SetOpLock\SetOpLock\obj\Debug\SetOpLock.csproj.AssemblyReference.cache
+C:\Users\whoami\source\repos\SetOpLock\SetOpLock\obj\Debug\SetOpLock.csproj.CoreCompileInputs.cache
+C:\Users\whoami\source\repos\SetOpLock\SetOpLock\obj\Debug\SetOpLock.exe
+C:\Users\whoami\source\repos\SetOpLock\SetOpLock\obj\Debug\SetOpLock.pdb
